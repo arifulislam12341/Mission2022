@@ -1,0 +1,168 @@
+body{
+    
+font-family: 'Poppins', sans-serif;
+margin: 0px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+#color{
+    color: orange;
+    font-weight: bold;
+}
+.flex-container{
+    display: flex;
+}
+h6{
+    font-weight: 400;
+}
+.border{
+    border-left: 4px solid green;
+    padding-left: 5px;
+    height: 140px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin:0px;
+  
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 4%;
+}
+.half-width img{
+    width: 400px;
+}
+.button{
+    background-color: orangered;
+    padding: 15px 40px;
+    text-decoration: none;
+    color: white;
+    padding-top: 1.5%;
+
+}
+
+.Anotherflex{
+    display: flex;
+    padding-left:200px;
+    padding-right: 40px;
+
+}
+.dot{
+    text-align: center;
+    font-weight: bolder;
+}
+.mission{
+    text-align: center;
+}
+.my{
+    color: orange;
+}
+.first img{
+    width:30%;
+}
+.first{
+    background-color: rgb(215, 240, 215);
+    height: 25%;
+    width: 25%;
+    margin: 10px;
+    padding: 10px;
+    top: 15px;
+    border-radius: 8%;
+
+
+}
+.second img{
+    width:30%;
+}
+.second{
+    background-color: rgba(59, 153, 165, 0.548);
+    height: 25%;
+    width: 25%;
+    margin: 10px;
+    padding: 10px ;
+    top: 15px;
+    border-radius: 8%;
+
+
+}
+.third img{
+    width:30%;
+}
+.third{
+    background-color: rgba(126, 138, 139, 0.514);
+    height: 25%;
+    width: 25%;
+    margin: 10px;
+    padding: 10px ;
+    top: 15px;
+    border-radius: 8%;
+
+
+}
+.thirdflex{
+    display: flex;
+    padding-left: 20%;
+    padding-top: 8%;
+    font-weight: bolder;
+}
+.pic{
+    width: 50%;
+    padding-right: 10%;
+}
+.par{
+    width: 40%;
+    padding-right: 20%;
+}
+.pic img{
+    width: 100%;
+    
+}
+.fourthflex{
+display: flex;
+padding-top: 5%;
+}
+.one{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.two{
+    width: 40%;
+    padding-right: 20%;
+}
+.two img{
+ width: 100%;
+}
+footer{
+    margin: 0px;
+}
+.end{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 1%;
+    margin-top: 15%;
+}
+.pa{
+    color: tomato;
+}
+.fifthflex{
+    display: flex;
+  padding-left: 5%;
+  margin-top: 10%;
+}
+.fifthflex img{
+     width: 70%;
+}
+.four h1{
+color: tomato;
+}
+.four{
+    background-color:rgba(88, 125, 204, 0.637);
+    box-shadow: 10px 10px 60px rgb(223, 172, 163);
+    border-radius: 10px;
+    padding:10px 40px;
+    width: 50%;
+}
